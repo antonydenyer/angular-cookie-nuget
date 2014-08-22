@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Angular.IpCookie</id>
+    <title>AngularJS Ip Cookie</title>
+    <version>0.1.0</version>
+    <authors>Ivan Pusic</authors>
+    <owners>antonydenyer</owners>
+    <licenseUrl>https://github.com/ivpusic/angular-cookie/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/ivpusic/angular-cookie</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Lightweight Angular module for access to cookies AngularJS</description>
+    <summary>Provides extra funcionality over the standard cookie store provided within angularjs</summary>
+    <releaseNotes></releaseNotes>
+    <copyright>https://github.com/ivpusic/angular-cookie/blob/master/LICENSE</copyright>
+    <tags>angular angularjs angular-cookie</tags>
+  </metadata>
+  <files>
+    <file src="angular-cookie.js" target="content\Scripts\angular-cookie.js" />
+    <file src="angular-cookie.min.js" target="content\Scripts\angular-cookie.min.js" />
+  </files>
+</package>
